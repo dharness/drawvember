@@ -33,7 +33,7 @@ class App extends Component {
   }
 
   getPrompt() {
-    if(this.date.getMonth() === 9) {
+    if(this.date.getMonth() === 10) {
       return `Prompt: ${this.state.prompts[this.date.getDate()]}`
     }
     return `Drawvember hasn't begun`
