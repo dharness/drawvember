@@ -1,0 +1,12 @@
+.prompt {
+  text-align: center;
+}
+
+.pswp-thumbnails {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pswp-thumbnail {
+  margin: 0px 20px;
+}
