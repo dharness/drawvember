@@ -13,7 +13,7 @@ export default [
   "shattered",
   "teeming",
   "fierce",
-  "fiercemysterious",
+  "mysterious",
   "fat",
   "graceful",
   "filthy",
